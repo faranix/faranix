@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDb" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px" />
 <img align="left" alt="MySql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px" />
 <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" />
+<br />
 
 ## My Stats:
-![GHstats](https://github-readme-stats.vercel.app/api?username=faranix&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=faranix&show_icons=true)#GH-DARK-MODE-ONLY
