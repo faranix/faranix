@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Contact:
+
+
 ## Languages & Tools:
 <img align="left" alt="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
 <img align="left" alt="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
@@ -27,4 +30,4 @@ Here are some ideas to get you started:
 <br />
 
 ## My Stats:
-![GHstats](https://github-readme-stats.vercel.app/api?username=faranix&show_icons=true)#GH-DARK-MODE-ONLY
+![GHstats](https://github-readme-stats.vercel.app/api?username=faranix&show_icons=true#gh-dark-mode-only)
